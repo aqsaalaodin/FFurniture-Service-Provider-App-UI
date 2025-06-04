@@ -1,16 +1,4 @@
 # burger_button
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fonteded is a Flutter-based mobile application frontend designed for a furniture service provider platform. This project focuses purely on the UI/UX side of the app, offering a clean, modern, and user-friendly interface where users can browse, book, and manage furniture-related services like repairs, customization, and maintenance.
+The frontend includes multiple screens such as home, service listings, booking form, and profile layout—all developed with a scalable and maintainable code structure in Flutter. The design is optimized for a smooth user experience and ready for backend integration.
